@@ -5,10 +5,10 @@ POC api tecnologia spring webflux reativa, api spring boot com mongoDB.
 Poc para avaliar a caracteristicas do spring webflux, validando o conceito atomico onde podemos utilizar as reuisições não brocante.
 
 # tecnologias
-Java 8
-Spring webflux
-MonogoBD
-Junit 4 e springboot test que disponibiliza o mock.
+- Java 8
+- Spring webflux
+- MonogoBD
+- Junit 4 e springboot test que disponibiliza o mock.
 
 # paylod publicos
 - listar todos os registros - GET
