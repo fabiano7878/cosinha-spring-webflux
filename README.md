@@ -34,15 +34,17 @@ Sugestão de execução através de IDE Eclipse com spring tools e jdk java inst
 com os dados do usuário e senha criado para o seu banco "cozinhar", substitua esses parametros no arquivo incluse 
 as aspas dupla "user":"password".
 
-4. importar o projeto na sua IDE de preferencia, sugerido o Eclipse com spring tools, segue link para baixar abaixo.
+4. (Importante) Cadastrar no seu banco de dados o ip da seu desktop, para acessar precisa ter o ip cadastrado.
 
-5. Para a primeira execução se preferir, descomentar o arquivo "...\src\main\java\com\apirest\spring\webflux\DummyData.java", 
+5. importar o projeto na sua IDE de preferencia, sugerido o Eclipse com spring tools, segue link para baixar abaixo.
+
+6. Para a primeira execução se preferir, descomentar o arquivo "...\src\main\java\com\apirest\spring\webflux\DummyData.java", 
 para gerar alguns registros na base de dados, após execução pare a api e comente o arquivo.
 
-6. execute a aplicação e através do seu Browser ou do Postman, execute os end points descritos acima,
+7. execute a aplicação e através do seu Browser ou do Postman, execute os end points descritos acima,
 se atentar para o seu host.
 
-7. Caso apresente erro de dependencia deve ser o do JUnit, vá no classpth do projeto adicione o JUnit 4.
+8. Caso apresente erro de dependencia deve ser o do JUnit, vá no classpth do projeto adicione o JUnit 4.
 
 # site para downloads
 - IDE Eclipse
